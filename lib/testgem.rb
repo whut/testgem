@@ -1,4 +1,4 @@
-module TestGem
+class TestGem
   def hello
     "Hello, world!"
   end

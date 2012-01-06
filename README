@@ -3,6 +3,6 @@ This it test gem
 Shows usual directory structure.
 
 TODO
- - rake
+ - rake, hoe, jeweler
  - rdoc, yard
- - minitest
+ - minitest, rspec, shoulda
