@@ -2,6 +2,16 @@ This it test gem
 
 Shows usual directory structure.
 
+One test file can be run just with 
+  ruby -Ilib test/test.rb
+or all tests with rake task
+  rake test
+
+rdoc documentation can be generated with
+  rdoc lib
+Or with rake task
+  rake rdoc
+
 TODO
  - rake, hoe, jeweler
  - rdoc, yard
