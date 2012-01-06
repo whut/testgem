@@ -11,4 +11,5 @@ Gem::Specification.new do |s|
   s.email       = ['rafal@example.com']
   s.homepage    = 'http://example.com'
   s.files       = Dir["lib/**/*.rb", "README"]
+  s.executables << "testgem.rb"
 end
