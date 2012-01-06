@@ -9,8 +9,13 @@ or all tests with rake task
 
 rdoc documentation can be generated with
   rdoc lib
-Or with rake task
+or with rake task
   rake rdoc
+
+gem can be created with
+  gem build testgem.gemspec
+or with rake task
+  rake gem
 
 TODO
  - rake, hoe, jeweler
